@@ -81,4 +81,4 @@ The repository is organized into the following main sections:
 
 ### IBM Full Stack Software Developer
 
-[IBM Full Stack Software Developer](https://www.coursera.org/account/accomplishments/professional-cert/SUJM3H7B5MMBS)
+[IBM Full Stack Software Developer](https://coursera.org/verify/professional-cert/SUJM3H7B5MMB)
