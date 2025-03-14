@@ -58,7 +58,7 @@ The repository is organized into the following main sections:
 
   - A real-world project integrating cloud technologies to build a scalable full-stack application. This section covers cloud architecture, deployment strategies, and best practices for full-stack development in the cloud.
 
-  - **Full Stack Software Developer Assessment**
+- **Full Stack Software Developer Assessment**
 
   - A structured assessment designed to evaluate and enhance Full Stack development skills. This section includes coding exercises and problem-solving tasks to test proficiency in front-end and back-end development.
 
@@ -75,7 +75,7 @@ The repository is organized into the following main sections:
 9. [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/certificate/LZ4NBS8DXCZH)
 10. [Application Development using Microservices and Serverless](https://www.coursera.org/account/accomplishments/certificate/J3X6LDDBYX5Z)
 11. [Full Stack Cloud Development Capstone Project](https://www.coursera.org/account/accomplishments/certificate/6S59MSMU75VU)
-12. [Full Stack Software Developer Assessment](https://www.coursera.org/account/accomplishments/certificate/ZXE99APBZ89N)
+12. [Full Stack Software Developer Assessment](https://coursera.org/verify/professional-cert/SUJM3H7B5MMB)
 
 ## Specialization Certificate
 
