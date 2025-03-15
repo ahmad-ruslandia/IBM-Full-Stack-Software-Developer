@@ -111,7 +111,7 @@ The repository is organized into the following main sections:
 9. [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/account/accomplishments/certificate/LZ4NBS8DXCZH)
 10. [Application Development using Microservices and Serverless](https://www.coursera.org/account/accomplishments/certificate/J3X6LDDBYX5Z)
 11. [Full Stack Cloud Development Capstone Project](https://www.coursera.org/account/accomplishments/certificate/6S59MSMU75VU)
-12. [Full Stack Software Developer Assessment](https://coursera.org/verify/professional-cert/SUJM3H7B5MMB)
+12. [Full Stack Software Developer Assessment](https://www.coursera.org/account/accomplishments/certificate/ZXE99APBZ89N)
 
 ## Specialization Certificate
 
